@@ -8,4 +8,4 @@ function ticketP(age) {
     }
     else return "vous allez payés 20$";
 }
-console.log(ticketP(10));
+console.log(ticketP(13));
